@@ -213,6 +213,14 @@ body {
   justify-content: center;
 }
 
+#formsearch {
+  grid-row: 3;
+  grid-column: 2 / span 2;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 #searchBar{
   padding: 3%;
   border: 0;
