@@ -213,6 +213,15 @@ body {
   justify-content: center;
 }
 
+#searchBar{
+  padding: 3%;
+  border: 0;
+  box-shadow: 0 5px 7px rgba(0, 0, 0, 0.35);
+  border-radius: 10px;
+  font-family: inherit;
+  font-size: inherit;
+}
+
 .linksBlock {
   grid-row: 4 / span 2;
   grid-column: 1 / span 4;
